@@ -69,11 +69,12 @@ header .container .menu-pc .logo {
   height: 60px;
 }
 header .container .menu-pc nav {
-  color: #fff;
+  color: #ffffff !important;
   justify-content: space-between;
 }
 header .container .menu-pc nav a {
   padding: 0 10px;
+  color: #ffffff !important;
 }
 header .container .menu-pc nav a:visited {
   color: #fff;

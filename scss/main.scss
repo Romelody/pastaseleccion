@@ -83,10 +83,11 @@ header{
         height: 60px;
       }
       nav{
-        color: #fff;
+        color: #ffffff!important;
         justify-content: space-between;
         a{
           padding: 0 10px;
+          color: #ffffff!important;
           &:visited{
             color: #fff;
           }
